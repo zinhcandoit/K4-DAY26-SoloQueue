@@ -8,4 +8,4 @@
 
 1. **Họ và tên:** Thiều Quang Vinh  
    **MSSV / ID:** 2A202602877  
-   **Vai trò:** Leader / Solo Queue  
+   **Vai trò:** Leader 
